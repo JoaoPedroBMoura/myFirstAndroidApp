@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myFirstAndroidApp</string>
+    <string name="reception">Olá, seja bem-vindo!</string>
+    <string name="password_text">Digite a senha</string>
+</resources>
