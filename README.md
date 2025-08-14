@@ -1,4 +1,4 @@
-# My First Android Developer
+# My first android development
 
 | This aplication is my test for internation app. It have translater function, use xml string's
 
